@@ -1,0 +1,25 @@
+html, body {
+	font-family: Ubuntu;
+	width: 100%; height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(http://www.topoboi.com/pic/201411/1920x1080/topoboi.com-49341.jpg) no-repeat;
+	background-size: cover;
+
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+}
+
+.wrapper {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
